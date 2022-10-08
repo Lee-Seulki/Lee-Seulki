@@ -2,7 +2,7 @@
 
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=seulzzang's%20GitHub&descAlign=70.&descAlignY=44)
 
-## Intrdouction 🙌
+## Introduction 🙌
 안녕하세요! 개발자를 꿈꾸는 이슬기 입니다.  
 머신러닝과 딥러닝에 관심이 많으며 게임과 운동을 좋아해요 💕
 

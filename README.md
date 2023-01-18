@@ -17,7 +17,7 @@
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@seulki971227)
 [![Blog](https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/doobeauty)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-Seulki&show_icons=true&theme=solarized-light)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-Seulki&count_private=true&show_icons=true&theme=solarized-light)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=seulki971227)](https://velog.io/@zaman17)
 

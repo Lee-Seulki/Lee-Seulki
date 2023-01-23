@@ -4,13 +4,15 @@
 
 ## Introduction 🙌
 안녕하세요! 개발자를 꿈꾸는 이슬기 입니다.  
-머신러닝과 딥러닝에 관심이 많으며 게임과 운동을 좋아해요 💕
+웹 개발에 관심이 많으며 현재는 슬램덩크에 빠져있습니다 🏀
 
 ## Used tools & Skill 👀
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
 
 ## About me ✨
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://rain-belt-3e4.notion.site/a2dfda60244a4a86bef0f53320d2fe12)

@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
 
 ## About me ✨
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://rain-belt-3e4.notion.site/a2dfda60244a4a86bef0f53320d2fe12)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://seulzzang.notion.site/56d4ca1679274dc5a5d683128283f687)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@seulki971227)
 [![Blog](https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/doobeauty)
 

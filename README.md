@@ -8,7 +8,7 @@
 
 ## Career
 **(주)아톤 | 2023.03 - 현재**  
-LG U+ PASS앱의 서버 파트 담당
+LG U+ PASS앱 서버 파트 담당
 
 ## Skills
 ### Languages

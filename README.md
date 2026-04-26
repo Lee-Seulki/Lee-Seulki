@@ -1,45 +1,45 @@
- <div align=center>
+<div>
 
-![slice](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&text=seulzzang&)
+## Introduction
+안정적인 서버 운영과 구조적인 문제 해결에 집중하는 백엔드 개발자 이슬기입니다.  
+현재는 Java/Spring 기반 서버 개발과 운영업무를 담당하고 있습니다.
+<br>
+운동⛹과 게임🎮, 그리고 애니메이션💥을 좋아합니다.
 
-## Introduction 🙌
-안녕하세요! 웹 개발에 관심이 많은 왕초보 백엔드 엔지니어 이슬기입니다.  
-현재는 슬램덩크에 빠져있습니다 🏀 취미는 로스트아크입니다 🎮
+## Career
+**(주)아톤 | 2023.03 - 현재**  
+LG U+ PASS앱의 서버 파트 담당
 
-## Used tools & Skill 👀
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=Intellij-IDEA&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+## Skills
+### Languages
+<img src="https://img.shields.io/badge/Java-고급-22C55E?style=flat&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-초급-64748B?style=flat&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-초급-64748B?style=flat&logo=Python&logoColor=white"/>
 
+### Frameworks & Library
+<img src="https://img.shields.io/badge/Spring%20Boot-고급-22C55E?style=flat&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Framework-고급-22C55E?style=flat&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-고급-22C55E?style=flat&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/MyBatis-중급-F59E0B?style=flat&logoColor=white"/>
+<img src="https://img.shields.io/badge/QueryDSL-중급-F59E0B?style=flat&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-초급-64748B?style=flat&logo=vuedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-초급-64748B?style=flat&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-초급-64748B?style=flat&logo=nextdotjs&logoColor=white"/>
 
-## About me ✨
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://seulzzang.notion.site/56d4ca1679274dc5a5d683128283f687)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@seulki971227)
-[![Blog](https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/doobeauty)
+### Databases
+<img src="https://img.shields.io/badge/Oracle-고급-22C55E?style=flat&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-고급-22C55E?style=flat&logo=mariadb&logoColor=white"/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-Seulki&count_private=true&show_icons=true&theme=solarized-light)
+### DevOps & Tools
+<img src="https://img.shields.io/badge/VS%20Code-고급-22C55E?style=flat&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ-고급-22C55E?style=flat&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-중급-F59E0B?style=flat&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-중급-F59E0B?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bamboo-초급-64748B?style=flat&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bitbucket-초급-64748B?style=flat&logo=bitbucket&logoColor=white"/>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=seulki971227)](https://velog.io/@seulki971227)
+## Contact 📫
+📧 seulki971227@kakao.com <br>
+📱 +82 10-4845-9264
 
-<!--
-**Lee-Seulki/Lee-Seulki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 </div>
